@@ -1,1 +1,1 @@
-# school-coursework-c-
+# C++ school projects
